@@ -1,6 +1,6 @@
-# ♻️ Waste SegregationAton
+# ♻️ Waste Segregation
 
-Waste SegregationAton is a web-based / ML-powered waste management project that helps categorize and segregate different types of waste efficiently. The goal is to support environmental sustainability by automating or assisting the sorting of waste into recyclable, non-recyclable, or other meaningful categories.
+Waste Segregation is a web-based / ML-powered waste management project that helps categorize and segregate different types of waste efficiently. The goal is to support environmental sustainability by automating or assisting the sorting of waste into recyclable, non-recyclable, or other meaningful categories.
 
 ---
 
@@ -19,7 +19,7 @@ Waste SegregationAton is a web-based / ML-powered waste management project that 
 Here’s a sample structure (modify as per your repo):
 
 ```
-waste_segregationaton/
+waste_segregation/
 │
 ├── app.py / index.html      # Main application entry (Flask / static web)  
 ├── templates/               # HTML templates (if web app)  
